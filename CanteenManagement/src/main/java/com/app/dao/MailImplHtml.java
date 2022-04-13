@@ -27,7 +27,7 @@ public class MailImplHtml {
 		// creates a new session with an authenticator
 		Authenticator auth = new Authenticator() {
 			public PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("shrinath.giri720@gmail.com","9923924326");
+				return new PasswordAuthentication("shrinath.giri720@gmail.com","**********");
 			}
 		};
 

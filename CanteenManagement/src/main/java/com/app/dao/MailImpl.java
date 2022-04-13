@@ -30,7 +30,7 @@ public class MailImpl {
 		Session session=Session.getInstance(properties, new Authenticator() {
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {				
-				return new PasswordAuthentication("shrinath.giri720@gmail.com","9923924326");
+				return new PasswordAuthentication("shrinath.giri720@gmail.com","**********");
 			}
 			
 		});
